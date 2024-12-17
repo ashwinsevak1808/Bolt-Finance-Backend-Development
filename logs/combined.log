@@ -1,0 +1,253 @@
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T05:59:24.368Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T05:59:25.906Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T05:59:34.513Z"}
+{"level":"error","message":"MongoDB Connection Error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"iscryptd":false,"lastUpdateTime":2208032793,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (C:\\Users\\ceo\\Desktop\\Finance\\backend\\node_modules\\mongoose\\lib\\connection.js:1089:11)\n    at NativeConnection.openUri (C:\\Users\\ceo\\Desktop\\Finance\\backend\\node_modules\\mongoose\\lib\\connection.js:1040:11)\n    at async connectDB (C:\\Users\\ceo\\Desktop\\Finance\\backend\\src\\config\\database.js:6:5)","timestamp":"2024-12-15T06:00:04.514Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:00:13.198Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:00:27.293Z"}
+{"level":"error","message":"MongoDB Connection Error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"iscryptd":false,"lastUpdateTime":2208085629,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (C:\\Users\\ceo\\Desktop\\Finance\\backend\\node_modules\\mongoose\\lib\\connection.js:1089:11)\n    at NativeConnection.openUri (C:\\Users\\ceo\\Desktop\\Finance\\backend\\node_modules\\mongoose\\lib\\connection.js:1040:11)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:540:9)\n    at process.processTimers (node:internal/timers:514:7)\n    at async connectDB (C:\\Users\\ceo\\Desktop\\Finance\\backend\\src\\config\\database.js:6:5)","timestamp":"2024-12-15T06:00:57.349Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:01:05.468Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:01:10.621Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:01:17.325Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:01:37.224Z"}
+{"level":"error","message":"MongoDB Connection Error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"iscryptd":false,"lastUpdateTime":2208155497,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (C:\\Users\\ceo\\Desktop\\Finance\\backend\\node_modules\\mongoose\\lib\\connection.js:1089:11)\n    at NativeConnection.openUri (C:\\Users\\ceo\\Desktop\\Finance\\backend\\node_modules\\mongoose\\lib\\connection.js:1040:11)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:540:9)\n    at process.processTimers (node:internal/timers:514:7)\n    at async connectDB (C:\\Users\\ceo\\Desktop\\Finance\\backend\\src\\config\\database.js:6:5)","timestamp":"2024-12-15T06:02:07.234Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:03:10.696Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T06:03:11.035Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:03:16.378Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T06:03:16.726Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:03:29.259Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T06:03:29.525Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:03:39.736Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T06:03:40.010Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:03:42.889Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T06:03:43.173Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:04:28.320Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T06:04:28.567Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:05:37.900Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T06:05:38.176Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:06:07.723Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T06:06:08.059Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:06:11.357Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T06:06:11.683Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:06:12.955Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T06:06:13.252Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:06:35.908Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T06:06:36.533Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:06:40.323Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T06:06:40.628Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:06:43.430Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T06:06:43.719Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T06:27:43.907Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T06:27:44.264Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:34:15.145Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:34:15.461Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:34:36.856Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:34:37.133Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:34:46.059Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:34:46.828Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:34:58.093Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:34:58.440Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:36:00.374Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:36:00.850Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:36:05.368Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:36:05.669Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:36:49.504Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:36:49.832Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:36:59.095Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:36:59.381Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:37:04.761Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:37:05.063Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:37:59.853Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:38:00.149Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:38:12.004Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:38:12.314Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:38:27.279Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:38:27.829Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:38:35.864Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:38:36.177Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:38:39.192Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:38:39.461Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:38:40.946Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:38:41.210Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:38:42.352Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:38:42.581Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:38:44.981Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:38:45.228Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:39:34.346Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:39:34.636Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:39:52.675Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:39:52.939Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:39:59.765Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:40:00.078Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:40:09.411Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:40:09.733Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:40:26.570Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:40:26.887Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:40:35.421Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:40:35.711Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:40:45.936Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:40:46.250Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:40:57.146Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:40:57.464Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:41:16.192Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:41:16.493Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:41:31.725Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:41:32.020Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:41:37.932Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:41:38.388Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:42:31.037Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:42:31.313Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:42:45.928Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:42:46.210Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:42:57.335Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:42:57.634Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:43:54.299Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:43:54.604Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:44:28.393Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:44:28.816Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:44:44.636Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:44:44.918Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:44:57.616Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:44:57.969Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:45:30.785Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:45:32.246Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:45:32.534Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:45:43.653Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:45:43.973Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:45:51.470Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:45:51.765Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:46:05.178Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:46:05.502Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:46:27.328Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:46:27.690Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:47:11.788Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:47:12.094Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:47:15.358Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:47:15.646Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:47:19.656Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:47:20.047Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:47:28.306Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:47:28.583Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:47:41.178Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:47:41.510Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:47:55.226Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:47:55.472Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:48:00.110Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:48:00.346Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:48:04.090Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:48:04.435Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:48:59.427Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:48:59.740Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:49:04.060Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:49:04.368Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:49:07.967Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:49:08.260Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:49:12.814Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:49:13.118Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:49:19.699Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:49:19.965Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:49:22.624Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:49:22.888Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:49:36.955Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:49:37.256Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:49:43.960Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:49:44.317Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:50:02.905Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:50:03.216Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:50:07.149Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:50:07.426Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:50:28.543Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:50:28.797Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:50:35.052Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:50:35.343Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:50:37.544Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:50:37.865Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:50:53.924Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:50:54.218Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:51:01.330Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:51:01.606Z"}
+{"level":"error","message":"Registration error: User already exists","stack":"Error: User already exists\n    at AuthService.registerUser (C:\\Users\\ceo\\Desktop\\Finance\\backend\\src\\services\\authService.js:14:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async AuthController.register (C:\\Users\\ceo\\Desktop\\Finance\\backend\\src\\controllers\\authController.js:13:22)","timestamp":"2024-12-15T11:56:21.110Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:11:56:21 +0000] \"POST /api/auth/register HTTP/1.1\" 400 33 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T11:56:21.123Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<c85e9013-692b-8a9b-c134-8c55d283c812@gmail.com>","timestamp":"2024-12-15T11:56:52.399Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:11:56:52 +0000] \"POST /api/auth/register HTTP/1.1\" 201 430 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T11:56:52.462Z"}
+{"level":"error","message":"Login error: Please verify your account with OTP first","stack":"Error: Please verify your account with OTP first\n    at AuthService.login (C:\\Users\\ceo\\Desktop\\Finance\\backend\\src\\services\\authService.js:75:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async AuthController.login (C:\\Users\\ceo\\Desktop\\Finance\\backend\\src\\controllers\\authController.js:46:22)","timestamp":"2024-12-15T11:57:37.514Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:11:57:37 +0000] \"POST /api/auth/login HTTP/1.1\" 401 55 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T11:57:37.523Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:58:00.507Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:58:00.796Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T11:58:07.498Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T11:58:07.812Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T12:00:26.156Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T12:00:26.454Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T12:01:06.663Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T12:01:06.971Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T12:01:27.452Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T12:01:27.751Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T12:02:38.249Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T12:02:38.543Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T12:02:42.132Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T12:02:42.469Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<8b0f4231-4544-d6a3-cac8-e36912df6110@gmail.com>","timestamp":"2024-12-15T12:03:25.403Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:12:03:25 +0000] \"POST /api/auth/login HTTP/1.1\" 200 396 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T12:03:25.448Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<d1461028-5ae6-7a4f-ed00-97584ca8cfe0@gmail.com>","timestamp":"2024-12-15T12:07:31.500Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:12:07:31 +0000] \"POST /api/auth/login HTTP/1.1\" 200 396 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T12:07:31.512Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<9ac0fb1b-063c-4196-9a44-c93fb2dc4a51@gmail.com>","timestamp":"2024-12-15T12:08:40.549Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:12:08:40 +0000] \"POST /api/auth/login HTTP/1.1\" 200 396 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T12:08:40.554Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<2702433e-5c2d-9ea6-dded-58bdc75bff85@gmail.com>","timestamp":"2024-12-15T12:09:39.245Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:12:09:39 +0000] \"POST /api/auth/login HTTP/1.1\" 200 396 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T12:09:39.250Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<a5808f6e-dcfd-eb11-5dc8-7723e2d7a9c7@gmail.com>","timestamp":"2024-12-15T12:09:52.991Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:12:09:53 +0000] \"POST /api/auth/register HTTP/1.1\" 201 430 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T12:09:53.001Z"}
+{"level":"error","message":"Registration error: User already exists","stack":"Error: User already exists\n    at AuthService.registerUser (C:\\Users\\ceo\\Desktop\\Finance\\backend\\src\\services\\authService.js:14:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async AuthController.register (C:\\Users\\ceo\\Desktop\\Finance\\backend\\src\\controllers\\authController.js:13:22)","timestamp":"2024-12-15T13:57:07.751Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:13:57:07 +0000] \"POST /api/auth/register HTTP/1.1\" 400 33 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T13:57:07.777Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T13:58:27.900Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T13:58:28.240Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T13:58:41.919Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T13:58:42.184Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T14:00:17.859Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T14:00:18.263Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<00baf2c4-fabc-7e58-5179-5e901de1965a@gmail.com>","timestamp":"2024-12-15T14:00:25.905Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:14:00:25 +0000] \"POST /api/auth/register HTTP/1.1\" 201 396 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T14:00:25.961Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T14:00:36.770Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T14:00:37.018Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T14:01:01.882Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T14:01:02.131Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T14:02:21.833Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T14:02:22.129Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T14:02:53.604Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T14:02:53.897Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T14:03:27.903Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T14:03:29.521Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T14:03:31.262Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T14:03:31.549Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T14:03:39.629Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T14:03:39.878Z"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2024-12-15T14:26:09.833Z"}
+{"level":"info","message":"MongoDB Connected Successfully","timestamp":"2024-12-15T14:26:10.079Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<f598ab7f-34e4-a080-cbd5-89f7ed659870@gmail.com>","timestamp":"2024-12-15T14:32:46.880Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:14:32:46 +0000] \"POST /api/auth/register HTTP/1.1\" 201 430 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T14:32:46.933Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<bfe9c9ca-e4a4-b4bf-0ee3-4a92763811e4@gmail.com>","timestamp":"2024-12-15T14:43:34.858Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:14:43:34 +0000] \"POST /api/auth/register HTTP/1.1\" 201 396 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T14:43:34.875Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<77e63557-4fc4-d37a-6043-0915e7468c0f@gmail.com>","timestamp":"2024-12-15T14:46:00.369Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:14:46:00 +0000] \"POST /api/auth/register HTTP/1.1\" 201 396 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T14:46:00.380Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:14:47:09 +0000] \"GET /api/auth/validate-token HTTP/1.1\" 404 162 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T14:47:09.463Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:14:47:09 +0000] \"GET /api/auth/validate-token HTTP/1.1\" 404 162 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T14:47:09.466Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<ad7a1a1e-cd20-38b2-34c0-b2f6e6473cfa@gmail.com>","timestamp":"2024-12-15T14:47:24.589Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:14:47:24 +0000] \"POST /api/auth/login HTTP/1.1\" 200 396 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T14:47:24.598Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<18a0e495-564b-9568-02db-e84347d2ee99@gmail.com>","timestamp":"2024-12-15T14:51:31.933Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:14:51:31 +0000] \"POST /api/auth/login HTTP/1.1\" 200 396 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T14:51:31.947Z"}
+{"level":"error","message":"Login error: Invalid credentials","stack":"Error: Invalid credentials\n    at AuthService.login (C:\\Users\\ceo\\Desktop\\Finance\\backend\\src\\services\\authService.js:101:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async AuthController.login (C:\\Users\\ceo\\Desktop\\Finance\\backend\\src\\controllers\\authController.js:46:22)","timestamp":"2024-12-15T14:55:45.385Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:14:55:45 +0000] \"POST /api/auth/login HTTP/1.1\" 401 33 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T14:55:45.405Z"}
+{"level":"error","message":"Login error: Invalid credentials","stack":"Error: Invalid credentials\n    at AuthService.login (C:\\Users\\ceo\\Desktop\\Finance\\backend\\src\\services\\authService.js:101:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async AuthController.login (C:\\Users\\ceo\\Desktop\\Finance\\backend\\src\\controllers\\authController.js:46:22)","timestamp":"2024-12-15T14:55:48.875Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:14:55:48 +0000] \"POST /api/auth/login HTTP/1.1\" 401 33 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T14:55:48.878Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<11118d5c-d2e4-5fd5-4619-bdcd5c700ffe@gmail.com>","timestamp":"2024-12-15T14:56:06.758Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:14:56:06 +0000] \"POST /api/auth/register HTTP/1.1\" 201 430 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T14:56:06.777Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<dbbca9b8-3288-890c-7ff2-e377345a79a3@gmail.com>","timestamp":"2024-12-15T14:58:52.964Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:14:58:52 +0000] \"POST /api/auth/login HTTP/1.1\" 200 396 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T14:58:52.973Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<e256a1d1-2d3e-26ec-ff39-90dd846cfe80@gmail.com>","timestamp":"2024-12-15T14:59:18.836Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:14:59:18 +0000] \"POST /api/auth/register HTTP/1.1\" 201 396 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T14:59:18.847Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:15:00:38 +0000] \"GET /api/auth/validate-token HTTP/1.1\" 404 162 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T15:00:38.398Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:15:00:38 +0000] \"GET /api/auth/validate-token HTTP/1.1\" 404 162 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T15:00:38.400Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<9f6f9965-d1bc-a34f-a7a8-8a0960da0fbd@gmail.com>","timestamp":"2024-12-15T15:00:47.320Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:15:00:47 +0000] \"POST /api/auth/login HTTP/1.1\" 200 396 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T15:00:47.328Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<97dcd3dd-fa4f-9d2d-6648-1f806cac079f@gmail.com>","timestamp":"2024-12-15T15:07:05.938Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:15:07:05 +0000] \"POST /api/auth/login HTTP/1.1\" 200 396 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T15:07:05.948Z"}
+{"level":"info","message":"Email sent successfully","messageId":"<c9408fc3-e499-0186-53f5-b82486b744af@gmail.com>","timestamp":"2024-12-15T15:08:39.151Z"}
+{"level":"info","message":"::1 - - [15/Dec/2024:15:08:39 +0000] \"POST /api/auth/register HTTP/1.1\" 201 396 \"http://localhost:3000/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36\"","timestamp":"2024-12-15T15:08:39.156Z"}
